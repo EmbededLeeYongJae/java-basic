@@ -6,3 +6,5 @@ public class ClassA {
 		System.out.println("ClassA 생성자");
 	}
 }
+
+//최상위 부모 클래스 
